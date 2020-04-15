@@ -9,4 +9,4 @@
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 ## ScreenShot
-![Image of I Am Rich App](./screenshot.jpg {width=400px height=800px})
+<img src="screenshot.jpg" width="300">
